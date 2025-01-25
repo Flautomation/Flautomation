@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Flautomation
-- 👀 I’m interested in test automation
+- 👀 I’m interested in automation, ai and web3
 
 <!---
 Flautomation/Flautomation is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
